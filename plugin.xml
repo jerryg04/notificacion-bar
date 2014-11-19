@@ -25,7 +25,7 @@
 		</feature>
         </config-file>
 
-        <js-module src="www/notificacion.js" name="statusNotificacion">
+        <js-module src="www/notificacion.js" name="Notificacion">
             <clobbers target="plugins.notificacion" />
         </js-module>
 
