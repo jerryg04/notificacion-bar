@@ -29,7 +29,7 @@
             <clobbers target="plugins.notificacion" />
         </js-module>
 
-		<source-file src="src/android/Notificacion.java" target-dir="src/com/notificacionbar/cordova/plugings/notificacionbar" />
+		<source-file src="src/android/Notificacion.java" target-dir="src/com/notificacionbar/cordova/plugins/notificacionbar" />
 
     </platform>
 
